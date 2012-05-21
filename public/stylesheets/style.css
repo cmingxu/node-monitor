@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+ul#switcher{
+  line-style: none;
+}
+
+ul#switcher li{
+  float: left;
+}
+
+.seprator{
+  clear: both;
+  height: 10px;
+}
+
+script
+  var min = 'August 1, 2007 16:00:00';
+  var interval = '4 months';
